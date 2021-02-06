@@ -3,13 +3,13 @@ pipeline {
     stages {
         stage('Example') {
             steps {
-                echo 'another prove'
+                echo 'ajo corasik'
             }
         }
     }
     post { 
         always { 
-            echo 'with pull r'
+            echo 'with dddddpull r'
         }
     }
 }
