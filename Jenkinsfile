@@ -9,7 +9,7 @@ pipeline {
     }
     post { 
         always { 
-            echo 'with pull r'
+            echo 'with dddddpull r'
         }
     }
 }
